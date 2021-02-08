@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{7B298E37-2D86-4E8B-8312-DA1EC0E21E5C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Emag-Engine", "Emag-Engine\Emag-Engine.vcxproj", "{823ED0D5-3518-4D55-966F-41B0D8316129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823ED0D5-3518-4D55-966F-41B0D8316129}.Debug|x64.ActiveCfg = Debug|x64
+		{823ED0D5-3518-4D55-966F-41B0D8316129}.Debug|x64.Build.0 = Debug|x64
+		{823ED0D5-3518-4D55-966F-41B0D8316129}.Release|x64.ActiveCfg = Release|x64
+		{823ED0D5-3518-4D55-966F-41B0D8316129}.Release|x64.Build.0 = Release|x64
+		{7B298E37-2D86-4E8B-8312-DA1EC0E21E5C}.Debug|x64.ActiveCfg = Debug|x64
+		{7B298E37-2D86-4E8B-8312-DA1EC0E21E5C}.Debug|x64.Build.0 = Debug|x64
+		{7B298E37-2D86-4E8B-8312-DA1EC0E21E5C}.Release|x64.ActiveCfg = Release|x64
+		{7B298E37-2D86-4E8B-8312-DA1EC0E21E5C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB3F522-37EF-405C-94A6-FACA476C2663}
+	EndGlobalSection
+EndGlobal
